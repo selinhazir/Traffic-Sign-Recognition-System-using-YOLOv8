@@ -22,6 +22,9 @@ The training process involved:
 2. **Model Initialization:** Loading pre-trained YOLOv8 weights to leverage transfer learning.
 3. **Training:** Executed for multiple epochs to optimize Mean Average Precision (mAP).
 4. **Validation:** Evaluating model performance on unseen test images to ensure reliability.
+## 🎥 Project Result
+
+https://github.com/user-attachments/assets/69c1b0d6-d20c-4200-8509-c8961dda8bae
 
 
 
